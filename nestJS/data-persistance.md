@@ -159,3 +159,8 @@ export class TasksRepository extends Repository<Task> {
   }
 }
 ```
+
+## Useful links
+
+1. [NestJS Docs - TypeORM](https://docs.nestjs.com/techniques/database#typeorm-integration)
+2. [TypeORM Docs - Entities](https://typeorm.io/#/entities)
