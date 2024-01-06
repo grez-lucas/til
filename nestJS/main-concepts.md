@@ -131,6 +131,12 @@ Pipes can:
    - Available to the entire application
    - Defined in the `main.ts` file
 
+### Installing the Validation Pipe
+
+```bash
+npm i class-validator class-transformer
+```
+
 ### Creating a Global-scope Pipe in NestJS
 
 main.ts
